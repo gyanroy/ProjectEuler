@@ -19,8 +19,8 @@ int main(int argc, char const *argv[]) {
   int upto=1000;
   cin >> upto;
   int num = num1*num2;
-  int sum_num1=0,sum_num2=0; 
-  int sum_union=0,sum=0;
+  unsigned long long sum_num1=0,sum_num2=0; 
+  unsigned long long sum_union=0,sum=0;
   
   int n1=0,n2=0,n=0;
   
